@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm currently learning MERN<br>Looking to collaborate with fellow techies<br>
-
+ def solve_problem(self, problem):
+        print(f"Analyzing the problem: {problem}...")
+        print("Solution found! Implementing with precision. ✅")
+        return f"{problem} solved successfully!"
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brezycfc) 
