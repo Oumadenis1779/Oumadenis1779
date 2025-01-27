@@ -1,14 +1,5 @@
 # 💫 About Me:
 
-<span style="color: green; animation: blink 1s infinite;">✨ Open for Collaborations and New Opportunities! ✨</span>
-
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 
 Hey there, I'm Dennies Ouma  
 🤝 Open to collaborating Let’s Build Something Awesome!
