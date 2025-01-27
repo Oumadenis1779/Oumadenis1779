@@ -16,13 +16,9 @@ Hey there, I'm Dennies Ouma
 ---
 
 ## 🌐 Socials:
-## 🌐 Socials:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://x.com/brezycfc">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://discord.com/users/your-discord">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://facebook.com/your-facebook">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
