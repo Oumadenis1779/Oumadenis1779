@@ -10,17 +10,33 @@ Hey there, I'm Dennies Ouma
 
 💬 Feel free to ask me about anything related to coding, design, or project insights.  
 
-⚡ Fun fact: I’m the kind of person who’ll spend 2 hours automating a 5-minute task—because why do it the hard way when you can work smarter, not harder? Efficiency is my superpower.
+⚡ Fun fact: I’m the kind of person who’ll spend 2 hours automating a 5-minute task—because why do it the hard way when you can work smarter, not harder? Efficiency is my 
+   superpower.
 
 ---
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brezycfc)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/your-discord)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/your-facebook)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your-instagram)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)  
+## 🌐 Socials:
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://x.com/brezycfc">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://discord.com/users/your-discord">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://facebook.com/your-facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
