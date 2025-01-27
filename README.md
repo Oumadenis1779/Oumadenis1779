@@ -1,7 +1,8 @@
 # 💫 About Me:
+<h2 style="font-size: 24px; text-decoration: underline;">
+  Hey there, I'm <a href="https://github.com/oumadenis1779" style="color: inherit; text-decoration: none;">Dennies Ouma</a>
+</h2>
 
-
-Hey there, I'm Dennies Ouma  
 🤝 Open to collaborating Let’s Build Something Awesome!
 
 🆘 Seeking help with staying consistently motivated and overcoming coding or design challenges.  
